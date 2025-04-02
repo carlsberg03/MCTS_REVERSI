@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual Environment
+venv/
+env/
+
+# Logs
+*.log
+
+# Local Development
+settings.py
+
+# Assets临时生成文件（根据实际需要添加）
+# assets/generated/
+
+# Test outputs
+.coverage
+htmlcov/
